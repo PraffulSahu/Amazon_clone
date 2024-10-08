@@ -6,9 +6,13 @@ The provided code represents the HTML and CSS code for an Amazon clone website. 
 The HTML code defines the structure of the webpage, including the header, search bar, navigation menu, hero section, shop section, and footer. The CSS code contains styles to customize the appearance of various elements on the webpage.
 
 Here are some of the Images of the Project:-
+
+
 ![Screenshot 2024-08-30 104705](https://github.com/user-attachments/assets/a41216a2-25a6-4472-9e0f-ef3e70a9c87c)
 
+
 ![Screenshot 2024-08-30 104732](https://github.com/user-attachments/assets/2c791106-edc3-44f0-811c-98683bbab817)
+
 
 
 Here is a breakdown of the different sections in the code:
